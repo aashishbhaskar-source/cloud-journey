@@ -40,3 +40,21 @@ Interview Thinking         ✅
 Current Skill Level
 
 Beginner → Beginner+
+
+Cloud Infrastructure Engineer Bootcamp
+
+Day 1
+
+████████████████████████████████
+
+Cloud Concepts         ✅
+GitHub                 ✅
+Linux Installation     ✅
+Networking Basics      ✅
+SSH                    ✅
+Storage                ✅
+VMware                 ✅
+
+Status
+
+Day 1 COMPLETED 🎉
