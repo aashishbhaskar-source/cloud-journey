@@ -43,6 +43,17 @@ Beginner → Beginner+
 
 Cloud Infrastructure Engineer Bootcamp
 
+## Linux Commands Learned
+
+pwd
+whoami
+hostname
+ls
+touch
+ip addr
+uname -a
+df -h
+
 Day 1
 
 ████████████████████████████████
