@@ -18,3 +18,15 @@ chmod                     ✅
 Current Level
 
 Beginner ⭐⭐⭐
+
+Project 1 – Deploy an Nginx Web Server on Ubuntu
+
+Skills demonstrated:
+
+VMware
+Ubuntu Server
+Linux package management (apt)
+Linux services (systemctl)
+SSH installation
+Basic networking
+Nginx installation
