@@ -1,11 +1,18 @@
 Cloud Infrastructure Engineer Bootcamp
 
-████████████████████████████████████░░░░░░
+██████████████████████████████████████████░░░░░░
 
-Linux Fundamentals        ✅
-Networking Basics         ✅
-Services                  ✅
-Package Management        ✅
-Web Server                ✅
-Ports                     ✅
-SSH Concepts              ✅
+Linux Installation          ✅
+Filesystem                  ✅
+Permissions                 ✅
+Package Management          ✅
+Services                    ✅
+Nginx                       ✅
+Networking Basics           ✅
+Ports                       ✅
+SSH Concepts                ✅
+Remote Linux Login          ✅
+
+Current Level
+
+Junior Linux Administrator ⭐⭐⭐⭐☆
